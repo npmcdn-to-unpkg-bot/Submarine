@@ -1,7 +1,7 @@
 
 /**
- * @author Harshil Mehta<hmehta16@my.centennialcollege.ca>, Dvij Kumar<dparma15@my.centennialcollege.ca>
- * @studentID 300873927, 300876336
+ * @author Harshil Mehta<hmehta16@my.centennialcollege.ca>, Dvij Kumar<dparma15@my.centennialcollege.ca>, Hitesh Chavda<hchavda1@my.centennialcollege.ca>
+ * @studentID 300873927, 300876336, 300823257
  * @date July 18, 2016
  * @description This file is the entry point for the game
  * @version 0.1 - Initial version of the boilerplate
